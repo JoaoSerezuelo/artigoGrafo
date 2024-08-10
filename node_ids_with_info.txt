@@ -1,0 +1,631 @@
+ID: 1818346957, Encontro das ruas: unknown street
+ID: 1818346963, Encontro das ruas: Rua Angelo Cattani, Rua Laércio Beluchi
+ID: 1818346965, Encontro das ruas: Rua Angelo Cattani, unknown street
+ID: 2542466180, Encontro das ruas: Rua Sergipe, Rua Minas Gerais
+ID: 2542466182, Encontro das ruas: Rua Vereador Jose Biesdorf, Rua Minas Gerais
+ID: 2547345514, Encontro das ruas: Rua Rio de Janeiro
+ID: 2547345530, Encontro das ruas: Rua Vereador Jose Biesdorf, Rua Rio de Janeiro
+ID: 2547353989, Encontro das ruas: Avenida Brasil, Rua Vereador Jose Biesdorf
+ID: 2547353992, Encontro das ruas: Avenida Brasil
+ID: 2547353993, Encontro das ruas: unknown street, Avenida Brasil
+ID: 2547357635, Encontro das ruas: Avenida Brasil, Rua Vereador Jose Biesdorf
+ID: 2547357647, Encontro das ruas: unknown street, Avenida Brasil
+ID: 2547357649, Encontro das ruas: Avenida Brasil
+ID: 2547357652, Encontro das ruas: Avenida Brasil
+ID: 2547406974, Encontro das ruas: Avenida Brasil
+ID: 2547406975, Encontro das ruas: Avenida Brasil, Rua Castelo Branco
+ID: 2547411414, Encontro das ruas: Avenida Brasil
+ID: 2547532966, Encontro das ruas: Avenida Brasil, Rua Castelo Branco
+ID: 2547536038, Encontro das ruas: Rua Pará, Rua Manaus
+ID: 2547536039, Encontro das ruas: Rua Angelo Cattani, Rua Manaus
+ID: 2547536188, Encontro das ruas: Rua Angelo Cattani, Rua São Francisco
+ID: 2547536189, Encontro das ruas: Rua Pará, Rua São Francisco
+ID: 2569602797, Encontro das ruas: Rua das Américas
+ID: 2569602801, Encontro das ruas: Rua Angelo Cattani, Rua das Américas
+ID: 2569604864, Encontro das ruas: Rua Bahia, Rua Argentina
+ID: 2569604866, Encontro das ruas: Rua Bahia, Rua Pará
+ID: 2569604867, Encontro das ruas: Rua Bahia, unknown street, Rua Angelo Cattani
+ID: 2634188513, Encontro das ruas: Rua Paraguai
+ID: 2634188517, Encontro das ruas: Rua Paraguai, Avenida Deputado Arnaldo Busato
+ID: 2634188528, Encontro das ruas: Rua Paraguai, unknown street
+ID: 2634188532, Encontro das ruas: unknown street, Rua Paraguai
+ID: 2634188544, Encontro das ruas: unknown street
+ID: 2634188873, Encontro das ruas: Rua Paraguai, unknown street
+ID: 2634188881, Encontro das ruas: unknown street, Rodovia Doutor Ivo Rocha
+ID: 2634189762, Encontro das ruas: Rua Angelo Cattani, unknown street
+ID: 2634189763, Encontro das ruas: Rua Angelo Cattani, Avenida Paraná
+ID: 2634189764, Encontro das ruas: Avenida Paraná, Rua Vereador Jose Biesdorf
+ID: 2634189765, Encontro das ruas: Avenida Paraná, Rua Vereador Jose Biesdorf
+ID: 2634189766, Encontro das ruas: Rua Angelo Cattani, Avenida Paraná
+ID: 2634189767, Encontro das ruas: Avenida Santa Catarina, Avenida Brasil
+ID: 2634189768, Encontro das ruas: Rua Angelo Cattani, Avenida Santa Catarina
+ID: 2634189827, Encontro das ruas: Rua Angelo Cattani, Avenida Santa Catarina
+ID: 2634189828, Encontro das ruas: Avenida Santa Catarina, Avenida Brasil
+ID: 2634189989, Encontro das ruas: Avenida Santa Catarina, Avenida Brasil
+ID: 2634189990, Encontro das ruas: Avenida Santa Catarina, Rua Pará
+ID: 2634189993, Encontro das ruas: Avenida Santa Catarina, Rua Pará
+ID: 2634189994, Encontro das ruas: Avenida Santa Catarina, Avenida Brasil
+ID: 2634190223, Encontro das ruas: unknown street, Avenida Rio Grande do Sul
+ID: 2634190224, Encontro das ruas: Avenida Rio Grande do Sul, Rua Vereador Jose Biesdorf
+ID: 2634190379, Encontro das ruas: Avenida Rio Grande do Sul, Rua Vereador Jose Biesdorf
+ID: 2634190380, Encontro das ruas: unknown street, Avenida Rio Grande do Sul, Rua Castelo Branco
+ID: 2634190584, Encontro das ruas: Rua Pará, Avenida Deputado Arnaldo Busato
+ID: 2634190586, Encontro das ruas: Rua Angelo Cattani, Avenida Deputado Arnaldo Busato
+ID: 2634191462, Encontro das ruas: Rua Angelo Cattani, Avenida Deputado Arnaldo Busato
+ID: 2634191464, Encontro das ruas: Rua Pará, Avenida Deputado Arnaldo Busato
+ID: 2634192103, Encontro das ruas: Avenida Curitiba, Rua Pará
+ID: 2634192105, Encontro das ruas: Rua Angelo Cattani, Avenida Curitiba
+ID: 2634192558, Encontro das ruas: Rua Angelo Cattani, Avenida Curitiba
+ID: 2634192561, Encontro das ruas: Avenida Curitiba, Rua Pará
+ID: 2634193619, Encontro das ruas: Avenida São Paulo, Rua Pará
+ID: 2634193621, Encontro das ruas: Avenida São Paulo, Avenida Brasil
+ID: 2634193623, Encontro das ruas: Avenida São Paulo, Avenida Brasil
+ID: 2634193625, Encontro das ruas: Avenida São Paulo, Rua Pará
+ID: 2634194189, Encontro das ruas: Avenida São Paulo, Avenida Brasil
+ID: 2634194190, Encontro das ruas: Rua Angelo Cattani, Avenida São Paulo
+ID: 2634194191, Encontro das ruas: Avenida São Paulo, Avenida Brasil
+ID: 2634194192, Encontro das ruas: Rua Angelo Cattani, Avenida São Paulo
+ID: 2634195198, Encontro das ruas: Rua Paraguai, Avenida Curitiba
+ID: 2634195202, Encontro das ruas: Rua Paraguai, Rua Vereador Jose Biesdorf
+ID: 2634197047, Encontro das ruas: Rua Pará, Rua Vereador Jose Biesdorf, Rua Martim Pescador
+ID: 2634197049, Encontro das ruas: Rua Vereador Jose Biesdorf
+ID: 2634201283, Encontro das ruas: unknown street, Rua Vereador Jose Biesdorf
+ID: 2634201297, Encontro das ruas: unknown street
+ID: 2634201300, Encontro das ruas: unknown street
+ID: 2634201310, Encontro das ruas: unknown street
+ID: 2634201321, Encontro das ruas: unknown street, Rua Vereador Jose Biesdorf
+ID: 2634204150, Encontro das ruas: unknown street
+ID: 2634208112, Encontro das ruas: unknown street, Rua Vereador Jose Biesdorf
+ID: 2634208118, Encontro das ruas: unknown street
+ID: 2634209681, Encontro das ruas: unknown street, Rua Vereador Jose Biesdorf
+ID: 2634213801, Encontro das ruas: Rua Argentina
+ID: 2634213803, Encontro das ruas: unknown street, Rua Argentina
+ID: 2634213812, Encontro das ruas: Rua Argentina, Rua Vereador Jose Biesdorf
+ID: 2634213814, Encontro das ruas: Rua Argentina, Rua Castelo Branco
+ID: 2634214876, Encontro das ruas: Rua Paraguai, Rua Castelo Branco
+ID: 2634214878, Encontro das ruas: Avenida Paraná, Rua Castelo Branco
+ID: 2634214879, Encontro das ruas: Avenida Paraná, Rua Castelo Branco
+ID: 2634215189, Encontro das ruas: Rua Angelo Cattani, Rua Castelo Branco
+ID: 2634215560, Encontro das ruas: Rua Angelo Cattani, unknown street
+ID: 2634215563, Encontro das ruas: unknown street
+ID: 2634216929, Encontro das ruas: unknown street, Rua Goiás
+ID: 2634216932, Encontro das ruas: Rua Vereador Jose Biesdorf, Rua Goiás
+ID: 2634217556, Encontro das ruas: Rua Mato Grosso, Rua Vereador Jose Biesdorf
+ID: 2634217558, Encontro das ruas: Rua Mato Grosso, Rua Amazonas
+ID: 2634218751, Encontro das ruas: unknown street, Rua Amazonas
+ID: 2634219452, Encontro das ruas: unknown street, Rua Cerejeira
+ID: 2634219789, Encontro das ruas: Rua Cerejeira, Rua Cedro
+ID: 2634219790, Encontro das ruas: Rua das Américas, Rua Cedro
+ID: 2634220088, Encontro das ruas: Rua Marfim, Rua Cerejeira
+ID: 2634220089, Encontro das ruas: Rua das Américas, Rua Marfim
+ID: 2634220223, Encontro das ruas: Rua Cerejeira, Rua Angico
+ID: 2634220224, Encontro das ruas: Rua das Américas, Rua Angico
+ID: 2634220281, Encontro das ruas: Rua Flamboyant, Rua das Américas
+ID: 2634220282, Encontro das ruas: Rua Flamboyant, Rua Cerejeira
+ID: 2634220339, Encontro das ruas: Rua Sibipiruna, Rua Cerejeira
+ID: 2634220340, Encontro das ruas: Rua das Américas, Rua Sibipiruna
+ID: 2634221164, Encontro das ruas: Rua Alecrim, Rua Sibipiruna
+ID: 2634221173, Encontro das ruas: Rua Angelo Cattani, unknown street, Rua Sergipe
+ID: 2634222714, Encontro das ruas: Rua Amazonas
+ID: 2634223327, Encontro das ruas: Rua Ipê, Rua Sibipiruna
+ID: 2634223329, Encontro das ruas: Rua Ipê, Rua Pará
+ID: 2634223782, Encontro das ruas: Rua Sibipiruna, Rua Cipreste
+ID: 2634223783, Encontro das ruas: Rua Cipreste, Rua Pará
+ID: 2634224205, Encontro das ruas: Rua Sibipiruna, Rua Peroba
+ID: 2634224208, Encontro das ruas: Rua Peroba, Rua Pará
+ID: 2634224834, Encontro das ruas: Rua Pará, Rua Brasília
+ID: 2634224835, Encontro das ruas: Rua Angelo Cattani, Rua Brasília
+ID: 2634232435, Encontro das ruas: Rua Porto Alegre, Rua Angelo Cattani
+ID: 2634232438, Encontro das ruas: Rua Porto Alegre, Rua Pará
+ID: 2634232926, Encontro das ruas: Rua Pará, Rua Jaco M. Madalozzo
+ID: 2634232927, Encontro das ruas: Rua Angelo Cattani, Rua Jaco M. Madalozzo
+ID: 2634233002, Encontro das ruas: Rua Pará, Rua Belo Horizonte
+ID: 2634233266, Encontro das ruas: unknown street, Rua Amadeu Bortolini, Rua Pará
+ID: 2634233267, Encontro das ruas: Rua Angelo Cattani, Rua Amadeu Bortolini
+ID: 2634233443, Encontro das ruas: Rua Angelo Cattani, Avenida Ayrton Senna
+ID: 2634233997, Encontro das ruas: unknown street
+ID: 2634233999, Encontro das ruas: unknown street
+ID: 2634234001, Encontro das ruas: unknown street
+ID: 2634234409, Encontro das ruas: unknown street
+ID: 2634234410, Encontro das ruas: unknown street
+ID: 2634234493, Encontro das ruas: unknown street
+ID: 2634234496, Encontro das ruas: unknown street
+ID: 2634234559, Encontro das ruas: unknown street
+ID: 2634234560, Encontro das ruas: unknown street
+ID: 2634234597, Encontro das ruas: unknown street
+ID: 2634234695, Encontro das ruas: unknown street, Rua Levindo Israel, Rua Hugo Mertz
+ID: 2634234700, Encontro das ruas: unknown street, Rua Hugo Mertz
+ID: 2634234701, Encontro das ruas: unknown street, Rua Levindo Israel
+ID: 2634234723, Encontro das ruas: unknown street, Rua Hugo Mertz
+ID: 2634234724, Encontro das ruas: unknown street, Rua Levindo Israel
+ID: 2634234735, Encontro das ruas: unknown street, Rua Hugo Mertz
+ID: 2634234736, Encontro das ruas: unknown street, Rua Levindo Israel
+ID: 2634234737, Encontro das ruas: unknown street, Rua Hugo Mertz
+ID: 2634234738, Encontro das ruas: unknown street, Rua Levindo Israel
+ID: 2634235540, Encontro das ruas: Rua Alfredo da Costa Duarte
+ID: 2634235545, Encontro das ruas: Rua Alfredo da Costa Duarte, Rua Laércio Beluchi
+ID: 2634235970, Encontro das ruas: unknown street, Rua Lindolfo Jacinto Rodrigues, Rua Laércio Beluchi
+ID: 2634235991, Encontro das ruas: Rua Vilibaldo Rasbold
+ID: 2634235992, Encontro das ruas: Rua Vilibaldo Rasbold
+ID: 2634235993, Encontro das ruas: Rua Vilibaldo Rasbold, Rua Lindolfo Jacinto Rodrigues
+ID: 2634236033, Encontro das ruas: unknown street, Rua das Américas
+ID: 2634236035, Encontro das ruas: Rua Angelo Cattani, unknown street
+ID: 2634236345, Encontro das ruas: unknown street
+ID: 2634236804, Encontro das ruas: unknown street
+ID: 2634236807, Encontro das ruas: unknown street
+ID: 2634237270, Encontro das ruas: unknown street
+ID: 2634237272, Encontro das ruas: unknown street
+ID: 2634240568, Encontro das ruas: unknown street, Rua Pará
+ID: 2634240573, Encontro das ruas: unknown street
+ID: 2634242454, Encontro das ruas: unknown street, Rua Martin Pescador, Rua João de Barro
+ID: 2634243163, Encontro das ruas: unknown street
+ID: 2634243165, Encontro das ruas: unknown street, Rua Pará
+ID: 2634243431, Encontro das ruas: unknown street
+ID: 2634243433, Encontro das ruas: unknown street
+ID: 2634243582, Encontro das ruas: unknown street
+ID: 2634243583, Encontro das ruas: unknown street
+ID: 2634243584, Encontro das ruas: unknown street
+ID: 2634243585, Encontro das ruas: unknown street
+ID: 2634243637, Encontro das ruas: unknown street
+ID: 2634243639, Encontro das ruas: unknown street
+ID: 2634243979, Encontro das ruas: unknown street
+ID: 2634243981, Encontro das ruas: unknown street
+ID: 2634244094, Encontro das ruas: unknown street
+ID: 2634244095, Encontro das ruas: unknown street
+ID: 2634244104, Encontro das ruas: unknown street, Rua das Palmeiras
+ID: 2634244105, Encontro das ruas: Rua Pará, Rua das Palmeiras
+ID: 2634244134, Encontro das ruas: Rua Santa Cecília
+ID: 2634244140, Encontro das ruas: Rua Pará, Rua Santa Cecília
+ID: 2634244145, Encontro das ruas: Rua Santa Bárbara, Rua das Palmeiras
+ID: 2634244146, Encontro das ruas: Rua Santa Bárbara, Rua Santa Cecília
+ID: 2634244268, Encontro das ruas: Rua das Orquídeas, Rua das Palmeiras
+ID: 2634244269, Encontro das ruas: Rua das Orquídeas, Rua Santa Cecília
+ID: 2634244405, Encontro das ruas: unknown street, Rua Pará
+ID: 2634244408, Encontro das ruas: unknown street, Rua Pará
+ID: 2634244438, Encontro das ruas: unknown street
+ID: 2634244439, Encontro das ruas: unknown street
+ID: 2634244593, Encontro das ruas: unknown street
+ID: 2634244595, Encontro das ruas: unknown street
+ID: 2634244723, Encontro das ruas: unknown street
+ID: 2634244724, Encontro das ruas: unknown street
+ID: 2634244751, Encontro das ruas: unknown street
+ID: 2634244752, Encontro das ruas: unknown street, Rua Pará
+ID: 2634245174, Encontro das ruas: unknown street
+ID: 2634245238, Encontro das ruas: unknown street, Rua Canário, Rua João de Barro
+ID: 2634245240, Encontro das ruas: Rua Canário, Rua Martin Pescador, Rua Martim Pescador, Rua Gralha Azul
+ID: 2634245264, Encontro das ruas: Rua Flamingo, Rua Canário
+ID: 2634245265, Encontro das ruas: Rua Flamingo, Rua Martin Pescador
+ID: 2634245274, Encontro das ruas: Rua Canário, Rua Gralha Azul
+ID: 2634245275, Encontro das ruas: Rua Martin Pescador, Rua Gralha Azul
+ID: 2634256045, Encontro das ruas: unknown street
+ID: 2634256567, Encontro das ruas: unknown street, Rua São Pedro
+ID: 2634257119, Encontro das ruas: Rua São João, unknown street, Rua São José
+ID: 2634257120, Encontro das ruas: unknown street
+ID: 2634257505, Encontro das ruas: Rua São Pedro, Rua Nossa Senhora Aparecida, Rua São Matheus, Rua São José
+ID: 2634258265, Encontro das ruas: Rua São Marcos, Rua São Pedro
+ID: 2634258908, Encontro das ruas: Rua São Pedro, Rua São Lucas
+ID: 3001439495, Encontro das ruas: Rua Alfredo da Costa Duarte, Rua Vilibaldo Rasbold
+ID: 3001439496, Encontro das ruas: Rua Amadeu Bortolini, Rua Minas Gerais
+ID: 3001439497, Encontro das ruas: Rua Amadeu Bortolini, Rua Rio de Janeiro
+ID: 3001439498, Encontro das ruas: Rua Paraguai, Rua Amadeu Bortolini
+ID: 3001439499, Encontro das ruas: Rua Amadeu Bortolini, Avenida Paraná
+ID: 3001439500, Encontro das ruas: Rua Amadeu Bortolini, Avenida Paraná
+ID: 3001439501, Encontro das ruas: Rua Amadeu Bortolini, Avenida Rio Grande do Sul
+ID: 3001439502, Encontro das ruas: Rua Amadeu Bortolini, Rua Argentina
+ID: 3001439503, Encontro das ruas: Rua Amadeu Bortolini, Avenida Brasil
+ID: 3001439504, Encontro das ruas: Rua Amadeu Bortolini, Avenida Brasil
+ID: 3001439505, Encontro das ruas: Rua Mato Grosso, Rua Amadeu Bortolini
+ID: 3001439506, Encontro das ruas: Rua Amadeu Bortolini, Rua Goiás
+ID: 3001439507, Encontro das ruas: Avenida Rio Grande do Sul, Rua Amadeu Bortolini
+ID: 3001439508, Encontro das ruas: Rua Manaus, Rua Goiás
+ID: 3001439509, Encontro das ruas: Rua Mato Grosso, Rua Manaus
+ID: 3001439510, Encontro das ruas: Avenida Brasil, Rua Manaus
+ID: 3001439511, Encontro das ruas: Avenida Rio Grande do Sul, Rua Manaus
+ID: 3001439512, Encontro das ruas: Avenida Rio Grande do Sul, Rua Manaus
+ID: 3001439513, Encontro das ruas: Rua Argentina, Rua Manaus
+ID: 3001439514, Encontro das ruas: Avenida Brasil, Rua Manaus
+ID: 3001439515, Encontro das ruas: Avenida Paraná, Rua Manaus
+ID: 3001439516, Encontro das ruas: Rua Paraguai, Rua Manaus
+ID: 3001439517, Encontro das ruas: Avenida Paraná, Rua Manaus
+ID: 3001439518, Encontro das ruas: Rua Minas Gerais, Rua Manaus
+ID: 3001439519, Encontro das ruas: Rua Rio de Janeiro, Rua Manaus
+ID: 3001439520, Encontro das ruas: Avenida Paraná, Rua São Francisco
+ID: 3001439521, Encontro das ruas: Rua Minas Gerais, Rua São Francisco
+ID: 3001439522, Encontro das ruas: Rua Rio de Janeiro, Rua São Francisco
+ID: 3001439523, Encontro das ruas: Avenida Paraná, Rua São Francisco
+ID: 3001439524, Encontro das ruas: Rua Argentina, Rua São Francisco
+ID: 3001439525, Encontro das ruas: Avenida Brasil, Rua São Francisco
+ID: 3001439526, Encontro das ruas: Avenida Brasil, Rua São Francisco
+ID: 3001439527, Encontro das ruas: Rua Paraguai, Rua São Francisco
+ID: 3001439528, Encontro das ruas: Rua São Francisco, Rua Goiás
+ID: 3001439529, Encontro das ruas: Avenida Rio Grande do Sul, Rua São Francisco
+ID: 3001439530, Encontro das ruas: Avenida Rio Grande do Sul, Rua São Francisco
+ID: 3001439531, Encontro das ruas: Rua Mato Grosso, Rua São Francisco
+ID: 3001439532, Encontro das ruas: Rua Belo Horizonte, Rua Goiás
+ID: 3001440333, Encontro das ruas: Rua Mato Grosso, Rua Belo Horizonte
+ID: 3001440334, Encontro das ruas: Rua Paraguai, Rua Belo Horizonte
+ID: 3001440335, Encontro das ruas: Rua Argentina, Rua Belo Horizonte
+ID: 3001440336, Encontro das ruas: Avenida Rio Grande do Sul, Rua Belo Horizonte
+ID: 3001440337, Encontro das ruas: Avenida Rio Grande do Sul, Rua Belo Horizonte
+ID: 3001440338, Encontro das ruas: Avenida Brasil, Rua Belo Horizonte
+ID: 3001440339, Encontro das ruas: Avenida Brasil, Rua Belo Horizonte
+ID: 3001440340, Encontro das ruas: Rua Minas Gerais, Rua Belo Horizonte
+ID: 3001440341, Encontro das ruas: Avenida Paraná, Rua Belo Horizonte
+ID: 3001440342, Encontro das ruas: Avenida Paraná, Rua Belo Horizonte
+ID: 3001440343, Encontro das ruas: Rua Belo Horizonte, Rua Rio de Janeiro
+ID: 3001440344, Encontro das ruas: Rua Angelo Cattani, Rua Levindo Israel, Rua Belo Horizonte
+ID: 3001440345, Encontro das ruas: Avenida São Paulo, Rua Minas Gerais
+ID: 3001440346, Encontro das ruas: Avenida São Paulo, Rua Minas Gerais
+ID: 3001440347, Encontro das ruas: Avenida São Paulo, Rua Rio de Janeiro
+ID: 3001440348, Encontro das ruas: Avenida São Paulo, Rua Rio de Janeiro
+ID: 3001440349, Encontro das ruas: Rua Paraguai, Avenida São Paulo
+ID: 3001440350, Encontro das ruas: Avenida São Paulo, Avenida Paraná
+ID: 3001440351, Encontro das ruas: Avenida São Paulo, Avenida Paraná
+ID: 3001440352, Encontro das ruas: Avenida São Paulo, Avenida Paraná
+ID: 3001440353, Encontro das ruas: Rua Paraguai, Avenida São Paulo
+ID: 3001440354, Encontro das ruas: Avenida São Paulo, Avenida Paraná
+ID: 3001440355, Encontro das ruas: Avenida Brasil
+ID: 3001440356, Encontro das ruas: Avenida São Paulo, Rua Goiás
+ID: 3001440357, Encontro das ruas: Rua Mato Grosso, Avenida São Paulo
+ID: 3001440358, Encontro das ruas: Avenida São Paulo, Rua Goiás
+ID: 3001440359, Encontro das ruas: Rua Mato Grosso, Avenida São Paulo
+ID: 3001440360, Encontro das ruas: Avenida São Paulo, Avenida Rio Grande do Sul
+ID: 3001440361, Encontro das ruas: Avenida São Paulo, Avenida Rio Grande do Sul
+ID: 3001440362, Encontro das ruas: Avenida São Paulo, Rua Argentina
+ID: 3001440363, Encontro das ruas: Avenida São Paulo, Avenida Rio Grande do Sul
+ID: 3001440364, Encontro das ruas: Avenida São Paulo, Avenida Rio Grande do Sul
+ID: 3001440365, Encontro das ruas: Avenida São Paulo, Rua Argentina
+ID: 3001440366, Encontro das ruas: Avenida Paraná, Rua Jaco M. Madalozzo
+ID: 3001440367, Encontro das ruas: Avenida Paraná, Rua Jaco M. Madalozzo
+ID: 3001440368, Encontro das ruas: Rua Minas Gerais, Rua Jaco M. Madalozzo
+ID: 3001440369, Encontro das ruas: Rua Jaco M. Madalozzo, Rua Rio de Janeiro
+ID: 3001440370, Encontro das ruas: Rua Paraguai, Rua Jaco M. Madalozzo
+ID: 3001440371, Encontro das ruas: Rua Argentina, Rua Jaco M. Madalozzo
+ID: 3001440372, Encontro das ruas: Avenida Brasil, Rua Jaco M. Madalozzo
+ID: 3001440373, Encontro das ruas: Avenida Brasil, Rua Jaco M. Madalozzo
+ID: 3001440374, Encontro das ruas: Rua Jaco M. Madalozzo, Rua Goiás
+ID: 3001440375, Encontro das ruas: Avenida Rio Grande do Sul, Rua Jaco M. Madalozzo
+ID: 3001440376, Encontro das ruas: Avenida Rio Grande do Sul, Rua Jaco M. Madalozzo
+ID: 3001440377, Encontro das ruas: Rua Mato Grosso, Rua Jaco M. Madalozzo
+ID: 3001440378, Encontro das ruas: Rua Porto Alegre, Rua Goiás
+ID: 3001440379, Encontro das ruas: Rua Porto Alegre, Rua Mato Grosso
+ID: 3001440380, Encontro das ruas: Rua Porto Alegre, Rua Paraguai
+ID: 3001440381, Encontro das ruas: Rua Porto Alegre, Rua Argentina
+ID: 3001440382, Encontro das ruas: Rua Porto Alegre, Avenida Rio Grande do Sul
+ID: 3001440383, Encontro das ruas: Rua Porto Alegre, Avenida Rio Grande do Sul
+ID: 3001440384, Encontro das ruas: Rua Porto Alegre, Avenida Brasil
+ID: 3001440385, Encontro das ruas: Rua Porto Alegre, Avenida Brasil
+ID: 3001440386, Encontro das ruas: Rua Porto Alegre, Rua Minas Gerais
+ID: 3001440387, Encontro das ruas: Rua Porto Alegre, Avenida Paraná
+ID: 3001440388, Encontro das ruas: Rua Porto Alegre, Avenida Paraná
+ID: 3001440389, Encontro das ruas: Rua Porto Alegre, Rua Rio de Janeiro
+ID: 3001440390, Encontro das ruas: Avenida Curitiba, Rua Rio de Janeiro
+ID: 3001440391, Encontro das ruas: Avenida Curitiba, Rua Rio de Janeiro
+ID: 3001440392, Encontro das ruas: Avenida Curitiba, Avenida Paraná
+ID: 3001440393, Encontro das ruas: Avenida Curitiba, Avenida Paraná
+ID: 3001440394, Encontro das ruas: Avenida Curitiba, Rua Minas Gerais
+ID: 3001440395, Encontro das ruas: Rua Paraguai, Avenida Curitiba
+ID: 3001440396, Encontro das ruas: Avenida Curitiba, Avenida Paraná
+ID: 3001440397, Encontro das ruas: Avenida Curitiba, Avenida Paraná
+ID: 3001440398, Encontro das ruas: Avenida Curitiba, Rua Minas Gerais
+ID: 3001440399, Encontro das ruas: Avenida Curitiba, Avenida Rio Grande do Sul
+ID: 3001440400, Encontro das ruas: Avenida Curitiba, Rua Argentina
+ID: 3001440401, Encontro das ruas: Avenida Curitiba, Avenida Brasil
+ID: 3001440402, Encontro das ruas: Avenida Curitiba, Avenida Brasil
+ID: 3001440403, Encontro das ruas: Avenida Curitiba, Avenida Brasil
+ID: 3001440404, Encontro das ruas: Avenida Curitiba, Avenida Brasil
+ID: 3001440405, Encontro das ruas: Avenida Curitiba, Rua Argentina
+ID: 3001440406, Encontro das ruas: Avenida Curitiba, Rua Goiás
+ID: 3001440407, Encontro das ruas: Avenida Curitiba, Avenida Rio Grande do Sul
+ID: 3001440408, Encontro das ruas: Avenida Rio Grande do Sul, Avenida Curitiba
+ID: 3001440409, Encontro das ruas: Avenida Curitiba, Rua Goiás
+ID: 3001440410, Encontro das ruas: Avenida Curitiba, Avenida Rio Grande do Sul
+ID: 3001440411, Encontro das ruas: Rua Mato Grosso, Avenida Curitiba
+ID: 3001440412, Encontro das ruas: Rua Mato Grosso, Avenida Curitiba
+ID: 3001440413, Encontro das ruas: Avenida Rio Grande do Sul, Avenida Deputado Arnaldo Busato
+ID: 3001440414, Encontro das ruas: Avenida Rio Grande do Sul, Avenida Deputado Arnaldo Busato
+ID: 3001440415, Encontro das ruas: Rua Mato Grosso, Avenida Deputado Arnaldo Busato
+ID: 3001440416, Encontro das ruas: Avenida Deputado Arnaldo Busato, Rua Goiás
+ID: 3001440417, Encontro das ruas: Avenida Rio Grande do Sul, Avenida Deputado Arnaldo Busato
+ID: 3001440418, Encontro das ruas: Avenida Rio Grande do Sul, Avenida Deputado Arnaldo Busato
+ID: 3001440419, Encontro das ruas: Rua Mato Grosso, Avenida Deputado Arnaldo Busato
+ID: 3001440420, Encontro das ruas: Avenida Deputado Arnaldo Busato, Rua Goiás
+ID: 3001440421, Encontro das ruas: Rua Argentina, Avenida Deputado Arnaldo Busato
+ID: 3001440422, Encontro das ruas: Rua Paraguai, Avenida Deputado Arnaldo Busato
+ID: 3001440423, Encontro das ruas: Rua Argentina, Avenida Deputado Arnaldo Busato
+ID: 3001440424, Encontro das ruas: Avenida Brasil, Avenida Deputado Arnaldo Busato
+ID: 3001440425, Encontro das ruas: Avenida Brasil, Avenida Deputado Arnaldo Busato
+ID: 3001440426, Encontro das ruas: Avenida Brasil, Avenida Deputado Arnaldo Busato
+ID: 3001440427, Encontro das ruas: Avenida Brasil, Avenida Deputado Arnaldo Busato
+ID: 3001440428, Encontro das ruas: Avenida Paraná, Avenida Deputado Arnaldo Busato
+ID: 3001440429, Encontro das ruas: Avenida Paraná, Avenida Deputado Arnaldo Busato
+ID: 3001440430, Encontro das ruas: Rua Minas Gerais, Avenida Deputado Arnaldo Busato
+ID: 3001440431, Encontro das ruas: Rua Minas Gerais, Avenida Deputado Arnaldo Busato
+ID: 3001440432, Encontro das ruas: Avenida Paraná, Avenida Deputado Arnaldo Busato
+ID: 3001440433, Encontro das ruas: Avenida Paraná, Avenida Deputado Arnaldo Busato
+ID: 3001440434, Encontro das ruas: Avenida Deputado Arnaldo Busato, Rua Rio de Janeiro
+ID: 3001440435, Encontro das ruas: Avenida Deputado Arnaldo Busato, Rua Rio de Janeiro
+ID: 3001440436, Encontro das ruas: Rua Paraguai, Rua Brasília
+ID: 3001440437, Encontro das ruas: Rua Minas Gerais, Rua Brasília
+ID: 3001440438, Encontro das ruas: Rua Brasília, Rua Rio de Janeiro
+ID: 3001440439, Encontro das ruas: Avenida Paraná, Rua Brasília
+ID: 3001440440, Encontro das ruas: Avenida Paraná, Rua Brasília
+ID: 3001440441, Encontro das ruas: Avenida Rio Grande do Sul, Rua Brasília
+ID: 3001440442, Encontro das ruas: Rua Argentina, Rua Brasília
+ID: 3001440443, Encontro das ruas: Avenida Brasil, Rua Brasília
+ID: 3001440444, Encontro das ruas: Avenida Brasil, Rua Brasília
+ID: 3001440445, Encontro das ruas: Rua Mato Grosso, Rua Brasília
+ID: 3001440446, Encontro das ruas: Rua Brasília, Rua Goiás
+ID: 3001440447, Encontro das ruas: Rua das Américas, Rua Argentina
+ID: 3001440448, Encontro das ruas: Rua das Américas, Avenida Rio Grande do Sul
+ID: 3001440449, Encontro das ruas: Rua das Américas, Rua Pará
+ID: 3001440450, Encontro das ruas: Rua Mato Grosso, Rua das Américas
+ID: 3001440451, Encontro das ruas: Rua das Américas, Rua Goiás
+ID: 3001440452, Encontro das ruas: Rua das Américas, Avenida Rio Grande do Sul
+ID: 3001440453, Encontro das ruas: Rua das Américas, Avenida Paraná
+ID: 3001440454, Encontro das ruas: Rua das Américas, Avenida Brasil
+ID: 3001440455, Encontro das ruas: Rua Paraguai, Rua das Américas
+ID: 3001440456, Encontro das ruas: Rua das Américas, Avenida Brasil
+ID: 3001440457, Encontro das ruas: Rua das Américas, Rua Rio de Janeiro
+ID: 3001440458, Encontro das ruas: Rua das Américas, Rua Minas Gerais
+ID: 3001440459, Encontro das ruas: Rua das Américas, Avenida Paraná
+ID: 3001440460, Encontro das ruas: Avenida Santa Catarina, Avenida Paraná
+ID: 3001440461, Encontro das ruas: Rua Paraguai, Avenida Santa Catarina
+ID: 3001440462, Encontro das ruas: Avenida Santa Catarina, Avenida Paraná
+ID: 3001440463, Encontro das ruas: Avenida Santa Catarina, Rua Minas Gerais
+ID: 3001440464, Encontro das ruas: Avenida Santa Catarina, Rua Rio de Janeiro
+ID: 3001440465, Encontro das ruas: Avenida Santa Catarina, Rua Minas Gerais
+ID: 3001440466, Encontro das ruas: Avenida Santa Catarina, Rua Rio de Janeiro
+ID: 3001440467, Encontro das ruas: Avenida Santa Catarina, Avenida Paraná
+ID: 3001440468, Encontro das ruas: Rua Paraguai, Avenida Santa Catarina
+ID: 3001440469, Encontro das ruas: Avenida Santa Catarina, Avenida Paraná
+ID: 3001440470, Encontro das ruas: Avenida Santa Catarina, Rua Goiás
+ID: 3001440471, Encontro das ruas: Rua Mato Grosso, Avenida Santa Catarina
+ID: 3001440472, Encontro das ruas: Avenida Santa Catarina, Avenida Rio Grande do Sul
+ID: 3001440473, Encontro das ruas: Avenida Santa Catarina, Avenida Rio Grande do Sul
+ID: 3001440474, Encontro das ruas: Avenida Santa Catarina, Rua Argentina
+ID: 3001440475, Encontro das ruas: Avenida Santa Catarina, Rua Goiás
+ID: 3001440476, Encontro das ruas: Rua Mato Grosso, Avenida Santa Catarina
+ID: 3001440477, Encontro das ruas: Avenida Santa Catarina, Avenida Rio Grande do Sul
+ID: 3001440478, Encontro das ruas: Avenida Santa Catarina, Avenida Rio Grande do Sul
+ID: 3001440479, Encontro das ruas: Avenida Santa Catarina, Rua Argentina
+ID: 3001440480, Encontro das ruas: unknown street
+ID: 3001440481, Encontro das ruas: unknown street
+ID: 3001440482, Encontro das ruas: unknown street
+ID: 3001440483, Encontro das ruas: unknown street
+ID: 3001440484, Encontro das ruas: Rua Peroba, Rua Angico
+ID: 3001440485, Encontro das ruas: Rua Flamboyant, Rua Peroba
+ID: 3001440486, Encontro das ruas: Rua Marfim, Rua Peroba
+ID: 3001440487, Encontro das ruas: Rua Peroba, Rua Cedro
+ID: 3001440488, Encontro das ruas: Rua Cipreste, Rua Angico
+ID: 3001440489, Encontro das ruas: Rua Flamboyant, Rua Cipreste
+ID: 3001440490, Encontro das ruas: Rua Marfim, Rua Cipreste
+ID: 3001440491, Encontro das ruas: Rua Cipreste, Rua Cedro
+ID: 3001440492, Encontro das ruas: Rua Ipê, Rua Cedro
+ID: 3001440493, Encontro das ruas: Rua Alecrim, Rua Cedro
+ID: 3001440494, Encontro das ruas: Rua Ipê, Rua Flamboyant
+ID: 3001440495, Encontro das ruas: Rua Ipê, Rua Angico
+ID: 3001440496, Encontro das ruas: Rua Ipê, Rua Marfim
+ID: 3001440497, Encontro das ruas: Rua Flamboyant, Rua Alecrim
+ID: 3001440498, Encontro das ruas: Rua Alecrim, Rua Angico
+ID: 3001440499, Encontro das ruas: Rua Alecrim, Rua Marfim
+ID: 3001440500, Encontro das ruas: Rua Bahia, Rua Mato Grosso
+ID: 3001440501, Encontro das ruas: Rua Bahia, Rua Goiás
+ID: 3001440502, Encontro das ruas: Rua Bahia, Avenida Rio Grande do Sul
+ID: 3001440503, Encontro das ruas: Rua Bahia, Avenida Rio Grande do Sul
+ID: 3001440504, Encontro das ruas: Rua Bahia, Rua Paraguai
+ID: 3001440505, Encontro das ruas: Rua Bahia, Avenida Brasil
+ID: 3001440506, Encontro das ruas: Rua Bahia, Avenida Brasil
+ID: 3001440507, Encontro das ruas: Rua Bahia, Rua Minas Gerais
+ID: 3001440508, Encontro das ruas: Rua Bahia, Avenida Paraná
+ID: 3001440509, Encontro das ruas: Rua Bahia, Avenida Paraná
+ID: 3001440510, Encontro das ruas: Rua Bahia, Rua Rio de Janeiro
+ID: 3001440511, Encontro das ruas: Rua Sergipe, Rua Rio de Janeiro
+ID: 3001440512, Encontro das ruas: Rua Sergipe, Rua Argentina
+ID: 3001440513, Encontro das ruas: Rua Sergipe, Avenida Brasil
+ID: 3001440514, Encontro das ruas: Rua Sergipe, Avenida Brasil
+ID: 3001440515, Encontro das ruas: Rua Paraguai, Rua Sergipe
+ID: 3001440516, Encontro das ruas: Rua Sergipe, Avenida Paraná
+ID: 3001440517, Encontro das ruas: Rua Sergipe, Avenida Paraná
+ID: 3001440518, Encontro das ruas: Rua Alecrim, unknown street, Rua Sergipe, Rua Pará
+ID: 3001440519, Encontro das ruas: Rua Sergipe, Rua Goiás
+ID: 3001440520, Encontro das ruas: Rua Mato Grosso, Rua Sergipe
+ID: 3001440521, Encontro das ruas: Rua Sergipe, Avenida Rio Grande do Sul
+ID: 3001440522, Encontro das ruas: Rua Sergipe, Avenida Rio Grande do Sul
+ID: 3001440523, Encontro das ruas: Rua Argentina, Rua Amazonas
+ID: 3001440524, Encontro das ruas: Rua Amazonas, Rua Goiás
+ID: 3001440525, Encontro das ruas: Avenida Rio Grande do Sul, Rua Amazonas
+ID: 3001440526, Encontro das ruas: Avenida Rio Grande do Sul, Rua Amazonas
+ID: 3001440527, Encontro das ruas: Rua Paraguai, Rua Amazonas
+ID: 3001440528, Encontro das ruas: Avenida Brasil, Rua Amazonas
+ID: 3001440529, Encontro das ruas: Avenida Brasil, Rua Amazonas
+ID: 3001440530, Encontro das ruas: Avenida Paraná, Rua Amazonas
+ID: 3001440531, Encontro das ruas: Avenida Paraná, Rua Amazonas
+ID: 3001440532, Encontro das ruas: unknown street, Rua Castelo Branco
+ID: 3663233731, Encontro das ruas: unknown street, Rua Vereador Jose Biesdorf
+ID: 3798803796, Encontro das ruas: Rua São João, Rua São Lucas, Rua São José
+ID: 3800740480, Encontro das ruas: unknown street
+ID: 3800741010, Encontro das ruas: unknown street
+ID: 3800741011, Encontro das ruas: unknown street
+ID: 3800741012, Encontro das ruas: unknown street
+ID: 3800753034, Encontro das ruas: Rua São João, unknown street
+ID: 3800753038, Encontro das ruas: unknown street, Rua Argentina
+ID: 3800753041, Encontro das ruas: unknown street
+ID: 3800753042, Encontro das ruas: unknown street
+ID: 3800764341, Encontro das ruas: Rua São João, Rua São Pedro
+ID: 3800786874, Encontro das ruas: Rua Angelo Cattani, unknown street
+ID: 3800786875, Encontro das ruas: unknown street
+ID: 3800786876, Encontro das ruas: unknown street
+ID: 3812644332, Encontro das ruas: Rua São Pedro, Rua Nossa Senhora Aparecida, Rua São Matheus, Rua São José
+ID: 3812644333, Encontro das ruas: Rua São Marcos, Rua São José
+ID: 3812644334, Encontro das ruas: unknown street
+ID: 3812644335, Encontro das ruas: unknown street
+ID: 3866876515, Encontro das ruas: unknown street
+ID: 3866876517, Encontro das ruas: unknown street
+ID: 3976642568, Encontro das ruas: Avenida Rio Grande do Sul, Rua Brasília
+ID: 3976642569, Encontro das ruas: unknown street, Rua Vereador Jose Biesdorf
+ID: 4520386094, Encontro das ruas: Rua Angelo Cattani, Rua Hugo Mertz
+ID: 5211570247, Encontro das ruas: unknown street
+ID: 5211570248, Encontro das ruas: unknown street, Rua das Palmeiras
+ID: 5211570249, Encontro das ruas: unknown street
+ID: 5211570250, Encontro das ruas: unknown street
+ID: 5211570251, Encontro das ruas: unknown street, Rua das Palmeiras
+ID: 5211570252, Encontro das ruas: unknown street
+ID: 5211570253, Encontro das ruas: unknown street
+ID: 5211570254, Encontro das ruas: unknown street, Rua das Palmeiras
+ID: 5468421704, Encontro das ruas: unknown street
+ID: 6237405530, Encontro das ruas: unknown street, Rodovia Doutor Ivo Rocha
+ID: 6237405533, Encontro das ruas: unknown street
+ID: 6237405535, Encontro das ruas: unknown street
+ID: 6237405537, Encontro das ruas: unknown street
+ID: 6237405540, Encontro das ruas: unknown street
+ID: 6237405541, Encontro das ruas: unknown street
+ID: 6237405542, Encontro das ruas: unknown street
+ID: 6237405552, Encontro das ruas: unknown street, Rua Cipreste
+ID: 6237405553, Encontro das ruas: Rua Ipê, unknown street, Rua Cerejeira
+ID: 6237405554, Encontro das ruas: unknown street
+ID: 6237405555, Encontro das ruas: unknown street, Rua Cipreste
+ID: 6237405556, Encontro das ruas: Rua Ipê, unknown street
+ID: 6237405557, Encontro das ruas: unknown street
+ID: 6237405558, Encontro das ruas: unknown street, Rua Cipreste
+ID: 6237405559, Encontro das ruas: Rua Ipê, unknown street
+ID: 6237405560, Encontro das ruas: Rua Mato Grosso
+ID: 6237405563, Encontro das ruas: unknown street
+ID: 6237405564, Encontro das ruas: Rua Angelo Cattani, unknown street
+ID: 6237405565, Encontro das ruas: unknown street
+ID: 6237405566, Encontro das ruas: unknown street
+ID: 6237405567, Encontro das ruas: unknown street
+ID: 6470444836, Encontro das ruas: unknown street
+ID: 6470444837, Encontro das ruas: unknown street
+ID: 6470444838, Encontro das ruas: unknown street
+ID: 6470444840, Encontro das ruas: unknown street
+ID: 6470444841, Encontro das ruas: unknown street
+ID: 6470444842, Encontro das ruas: unknown street
+ID: 6470444843, Encontro das ruas: unknown street
+ID: 6470444844, Encontro das ruas: unknown street
+ID: 6470444845, Encontro das ruas: unknown street
+ID: 6470444846, Encontro das ruas: unknown street
+ID: 6470444847, Encontro das ruas: unknown street
+ID: 6470444848, Encontro das ruas: unknown street
+ID: 6470444849, Encontro das ruas: unknown street
+ID: 6470444850, Encontro das ruas: unknown street
+ID: 6470444851, Encontro das ruas: unknown street
+ID: 6470444855, Encontro das ruas: unknown street
+ID: 6470444856, Encontro das ruas: unknown street
+ID: 6470444857, Encontro das ruas: unknown street
+ID: 6470444858, Encontro das ruas: unknown street
+ID: 6470444859, Encontro das ruas: unknown street
+ID: 6470444860, Encontro das ruas: unknown street
+ID: 6470444862, Encontro das ruas: unknown street
+ID: 6470444863, Encontro das ruas: unknown street
+ID: 6470444864, Encontro das ruas: unknown street, Rua Cipreste
+ID: 6470444865, Encontro das ruas: Rua Ipê, unknown street
+ID: 6842693083, Encontro das ruas: Rua Angelo Cattani, unknown street
+ID: 6842718288, Encontro das ruas: unknown street, Rua das Américas
+ID: 6842718289, Encontro das ruas: unknown street
+ID: 6842718413, Encontro das ruas: unknown street
+ID: 6842718415, Encontro das ruas: Rua das Américas
+ID: 6842718417, Encontro das ruas: unknown street
+ID: 6842718418, Encontro das ruas: unknown street
+ID: 6842718419, Encontro das ruas: unknown street
+ID: 6842718420, Encontro das ruas: unknown street
+ID: 6842718421, Encontro das ruas: unknown street
+ID: 6842718422, Encontro das ruas: unknown street
+ID: 6842718423, Encontro das ruas: unknown street
+ID: 6842718424, Encontro das ruas: unknown street
+ID: 6842718467, Encontro das ruas: unknown street
+ID: 6842718471, Encontro das ruas: Rua Angelo Cattani, unknown street
+ID: 7312236403, Encontro das ruas: unknown street
+ID: 7312236404, Encontro das ruas: unknown street
+ID: 7312236405, Encontro das ruas: unknown street
+ID: 7312236406, Encontro das ruas: unknown street, Rua Pará
+ID: 7391240217, Encontro das ruas: unknown street
+ID: 7689138629, Encontro das ruas: unknown street
+ID: 7689138633, Encontro das ruas: unknown street
+ID: 7689138639, Encontro das ruas: unknown street
+ID: 7689138648, Encontro das ruas: unknown street
+ID: 7689138651, Encontro das ruas: unknown street
+ID: 7689138655, Encontro das ruas: unknown street
+ID: 7840814440, Encontro das ruas: unknown street
+ID: 7840814441, Encontro das ruas: unknown street
+ID: 7840814442, Encontro das ruas: unknown street
+ID: 7840814443, Encontro das ruas: unknown street
+ID: 7840814444, Encontro das ruas: unknown street
+ID: 7840814445, Encontro das ruas: unknown street
+ID: 7840814446, Encontro das ruas: unknown street
+ID: 7840814447, Encontro das ruas: unknown street
+ID: 7840814448, Encontro das ruas: unknown street
+ID: 7840814452, Encontro das ruas: unknown street
+ID: 7840814454, Encontro das ruas: unknown street, Rodovia Doutor Ivo Rocha
+ID: 7840814455, Encontro das ruas: unknown street
+ID: 7840814456, Encontro das ruas: unknown street
+ID: 7840814461, Encontro das ruas: unknown street
+ID: 7840814462, Encontro das ruas: unknown street
+ID: 7840814463, Encontro das ruas: unknown street
+ID: 7840814467, Encontro das ruas: unknown street
+ID: 7840814468, Encontro das ruas: unknown street
+ID: 7840814469, Encontro das ruas: unknown street
+ID: 8590459059, Encontro das ruas: Rua Angelo Cattani, unknown street
+ID: 8590459060, Encontro das ruas: unknown street
+ID: 8590459061, Encontro das ruas: unknown street
+ID: 8590459066, Encontro das ruas: unknown street
+ID: 8767186541, Encontro das ruas: unknown street
+ID: 8767186542, Encontro das ruas: unknown street
+ID: 8767186543, Encontro das ruas: unknown street
+ID: 8767186565, Encontro das ruas: unknown street
+ID: 8767216961, Encontro das ruas: unknown street, Avenida Brasil
+ID: 8767216962, Encontro das ruas: unknown street, Avenida Brasil
+ID: 8767664317, Encontro das ruas: unknown street
+ID: 8767664326, Encontro das ruas: unknown street
+ID: 8767664328, Encontro das ruas: unknown street
+ID: 8767664329, Encontro das ruas: unknown street, Rua das Américas
+ID: 8767664334, Encontro das ruas: unknown street
+ID: 8767664335, Encontro das ruas: unknown street
+ID: 8767664336, Encontro das ruas: unknown street, Rua das Américas
+ID: 8767664337, Encontro das ruas: unknown street
+ID: 8767664338, Encontro das ruas: unknown street
+ID: 8767664339, Encontro das ruas: unknown street, Rua das Américas
+ID: 8767664340, Encontro das ruas: unknown street, Rua Laércio Beluchi
+ID: 8768001756, Encontro das ruas: unknown street, Avenida Paraná
+ID: 8768001757, Encontro das ruas: unknown street, Avenida Paraná
+ID: 8768001758, Encontro das ruas: unknown street, Avenida Paraná
+ID: 8768001759, Encontro das ruas: unknown street, Avenida Paraná
+ID: 8768001760, Encontro das ruas: unknown street, Avenida Paraná
+ID: 8768001761, Encontro das ruas: unknown street, Avenida Paraná
+ID: 8768001762, Encontro das ruas: unknown street, Avenida Brasil
+ID: 8768001763, Encontro das ruas: unknown street, Avenida Brasil
+ID: 8768001765, Encontro das ruas: unknown street, Avenida Brasil
+ID: 8768001766, Encontro das ruas: unknown street, Avenida Brasil
+ID: 10595216940, Encontro das ruas: unknown street
+ID: 10595216942, Encontro das ruas: unknown street
+ID: 10595216943, Encontro das ruas: unknown street, Rua João de Barro
+ID: 10595216944, Encontro das ruas: unknown street
+ID: 10595234812, Encontro das ruas: unknown street
+ID: 10595234813, Encontro das ruas: unknown street
+ID: 10595234814, Encontro das ruas: unknown street, Avenida Ayrton Senna
+ID: 10595234816, Encontro das ruas: unknown street
+ID: 10595234817, Encontro das ruas: unknown street
+ID: 10595234818, Encontro das ruas: unknown street
+ID: 10595234819, Encontro das ruas: unknown street
+ID: 10595234820, Encontro das ruas: unknown street
+ID: 10595234821, Encontro das ruas: unknown street
+ID: 10595234822, Encontro das ruas: unknown street
+ID: 10595234823, Encontro das ruas: unknown street
+ID: 10595234824, Encontro das ruas: unknown street
+ID: 10595234826, Encontro das ruas: unknown street
+ID: 10595234827, Encontro das ruas: unknown street
+ID: 10595234828, Encontro das ruas: unknown street
+ID: 10595234829, Encontro das ruas: unknown street
+ID: 10595234830, Encontro das ruas: unknown street
+ID: 10595234831, Encontro das ruas: unknown street
+ID: 10595234832, Encontro das ruas: unknown street
+ID: 11292103830, Encontro das ruas: unknown street
+ID: 11292103831, Encontro das ruas: unknown street, Rua Pará
+ID: 11292103833, Encontro das ruas: unknown street
+ID: 11292103834, Encontro das ruas: unknown street, Avenida São Paulo
+ID: 11292103835, Encontro das ruas: unknown street, Avenida São Paulo
+ID: 11292103836, Encontro das ruas: unknown street
+ID: 11292103837, Encontro das ruas: unknown street
+ID: 11292103838, Encontro das ruas: unknown street
+ID: 11292103839, Encontro das ruas: unknown street
+ID: 11292103840, Encontro das ruas: unknown street
