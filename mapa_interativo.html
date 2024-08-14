@@ -1,0 +1,681 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_95854ebf1f3886d4e805e882bd86b7c1 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_95854ebf1f3886d4e805e882bd86b7c1" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_95854ebf1f3886d4e805e882bd86b7c1 = L.map(
+                "map_95854ebf1f3886d4e805e882bd86b7c1",
+                {
+                    center: [-24.7, -53.1],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 7,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_2600a573951b2544c369aa29139ad96d = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors", "detectRetina": false, "maxNativeZoom": 19, "maxZoom": 19, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            );
+        
+    
+            tile_layer_2600a573951b2544c369aa29139ad96d.addTo(map_95854ebf1f3886d4e805e882bd86b7c1);
+        
+    
+            var marker_8ae4cf811007d157230c86248c7586d7 = L.marker(
+                [-25.4295963, -49.2712724],
+                {}
+            ).addTo(map_95854ebf1f3886d4e805e882bd86b7c1);
+        
+    
+        var popup_726a7e932e9b8d1c23e3a1b20de3e5f5 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_6a52a9f4d886f3585dc9c3176010b2ac = $(`<div id="html_6a52a9f4d886f3585dc9c3176010b2ac" style="width: 100.0%; height: 100.0%;"><b>Curitiba, Paraná, Brazil</b><br><a href='https://www.openstreetmap.org/?mlat=-25.4295963&mlon=-49.2712724' target='_blank'>Ver no Mapa</a></div>`)[0];
+                popup_726a7e932e9b8d1c23e3a1b20de3e5f5.setContent(html_6a52a9f4d886f3585dc9c3176010b2ac);
+            
+        
+
+        marker_8ae4cf811007d157230c86248c7586d7.bindPopup(popup_726a7e932e9b8d1c23e3a1b20de3e5f5)
+        ;
+
+        
+    
+    
+            marker_8ae4cf811007d157230c86248c7586d7.bindTooltip(
+                `<div>
+                     Curitiba, Paraná, Brazil
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_8e9c1a724b647ee1caa0943cacde936c = L.marker(
+                [-23.3112878, -51.1595023],
+                {}
+            ).addTo(map_95854ebf1f3886d4e805e882bd86b7c1);
+        
+    
+        var popup_789ce2688e16e45f06f4bb2ed8478eb3 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_327820c6a34cd524664444a73a74c1a0 = $(`<div id="html_327820c6a34cd524664444a73a74c1a0" style="width: 100.0%; height: 100.0%;"><b>Londrina, Paraná, Brazil</b><br><a href='https://www.openstreetmap.org/?mlat=-23.3112878&mlon=-51.1595023' target='_blank'>Ver no Mapa</a></div>`)[0];
+                popup_789ce2688e16e45f06f4bb2ed8478eb3.setContent(html_327820c6a34cd524664444a73a74c1a0);
+            
+        
+
+        marker_8e9c1a724b647ee1caa0943cacde936c.bindPopup(popup_789ce2688e16e45f06f4bb2ed8478eb3)
+        ;
+
+        
+    
+    
+            marker_8e9c1a724b647ee1caa0943cacde936c.bindTooltip(
+                `<div>
+                     Londrina, Paraná, Brazil
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_983747b57b26f1ee6663e1404a96824a = L.marker(
+                [-23.1825218, -50.6499263],
+                {}
+            ).addTo(map_95854ebf1f3886d4e805e882bd86b7c1);
+        
+    
+        var popup_576fdc3aaf186d2ce8f29bb9071337be = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_86a2485fea209ed58fe63200ae3a586e = $(`<div id="html_86a2485fea209ed58fe63200ae3a586e" style="width: 100.0%; height: 100.0%;"><b>Cornélio Procópio, Paraná, Brazil</b><br><a href='https://www.openstreetmap.org/?mlat=-23.1825218&mlon=-50.6499263' target='_blank'>Ver no Mapa</a></div>`)[0];
+                popup_576fdc3aaf186d2ce8f29bb9071337be.setContent(html_86a2485fea209ed58fe63200ae3a586e);
+            
+        
+
+        marker_983747b57b26f1ee6663e1404a96824a.bindPopup(popup_576fdc3aaf186d2ce8f29bb9071337be)
+        ;
+
+        
+    
+    
+            marker_983747b57b26f1ee6663e1404a96824a.bindTooltip(
+                `<div>
+                     Cornélio Procópio, Paraná, Brazil
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_ff2afc0afae10a1692fc4dc25d50cdbe = L.marker(
+                [-23.5525327, -51.4610764],
+                {}
+            ).addTo(map_95854ebf1f3886d4e805e882bd86b7c1);
+        
+    
+        var popup_2779041e5449052cc1352ba7356ecf63 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_fdc5bd23c250e64f2620bb14050d919b = $(`<div id="html_fdc5bd23c250e64f2620bb14050d919b" style="width: 100.0%; height: 100.0%;"><b>Apucarana, Paraná, Brazil</b><br><a href='https://www.openstreetmap.org/?mlat=-23.5525327&mlon=-51.4610764' target='_blank'>Ver no Mapa</a></div>`)[0];
+                popup_2779041e5449052cc1352ba7356ecf63.setContent(html_fdc5bd23c250e64f2620bb14050d919b);
+            
+        
+
+        marker_ff2afc0afae10a1692fc4dc25d50cdbe.bindPopup(popup_2779041e5449052cc1352ba7356ecf63)
+        ;
+
+        
+    
+    
+            marker_ff2afc0afae10a1692fc4dc25d50cdbe.bindTooltip(
+                `<div>
+                     Apucarana, Paraná, Brazil
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_094f5d3414e6700f97fc84bfb3d2f9de = L.marker(
+                [-24.046329, -52.37802],
+                {}
+            ).addTo(map_95854ebf1f3886d4e805e882bd86b7c1);
+        
+    
+        var popup_73cbd1b3efc38fad0cdb64716e327843 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_1a97a44252279fb405108d981eb0b25e = $(`<div id="html_1a97a44252279fb405108d981eb0b25e" style="width: 100.0%; height: 100.0%;"><b>Campo Mourão, Paraná, Brazil</b><br><a href='https://www.openstreetmap.org/?mlat=-24.046329&mlon=-52.37802' target='_blank'>Ver no Mapa</a></div>`)[0];
+                popup_73cbd1b3efc38fad0cdb64716e327843.setContent(html_1a97a44252279fb405108d981eb0b25e);
+            
+        
+
+        marker_094f5d3414e6700f97fc84bfb3d2f9de.bindPopup(popup_73cbd1b3efc38fad0cdb64716e327843)
+        ;
+
+        
+    
+    
+            marker_094f5d3414e6700f97fc84bfb3d2f9de.bindTooltip(
+                `<div>
+                     Campo Mourão, Paraná, Brazil
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_4c03d6cc5a7773989bd78cc44ffa66c0 = L.marker(
+                [-25.0891685, -50.1601812],
+                {}
+            ).addTo(map_95854ebf1f3886d4e805e882bd86b7c1);
+        
+    
+        var popup_644e313f1e401f1ceeb3ab7a22b46a0a = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_91062e651f6f3b40f05571338a25b938 = $(`<div id="html_91062e651f6f3b40f05571338a25b938" style="width: 100.0%; height: 100.0%;"><b>Ponta Grossa, Paraná, Brazil</b><br><a href='https://www.openstreetmap.org/?mlat=-25.0891685&mlon=-50.1601812' target='_blank'>Ver no Mapa</a></div>`)[0];
+                popup_644e313f1e401f1ceeb3ab7a22b46a0a.setContent(html_91062e651f6f3b40f05571338a25b938);
+            
+        
+
+        marker_4c03d6cc5a7773989bd78cc44ffa66c0.bindPopup(popup_644e313f1e401f1ceeb3ab7a22b46a0a)
+        ;
+
+        
+    
+    
+            marker_4c03d6cc5a7773989bd78cc44ffa66c0.bindTooltip(
+                `<div>
+                     Ponta Grossa, Paraná, Brazil
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_0f150d56f3bb89fe0b147a6c6b4e57af = L.marker(
+                [-26.2295984, -52.6712474],
+                {}
+            ).addTo(map_95854ebf1f3886d4e805e882bd86b7c1);
+        
+    
+        var popup_e08a43946bc913fa7720c00452001554 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_b08e57a6f67a7f87c8c4316c96d92035 = $(`<div id="html_b08e57a6f67a7f87c8c4316c96d92035" style="width: 100.0%; height: 100.0%;"><b>Pato Branco, Paraná, Brazil</b><br><a href='https://www.openstreetmap.org/?mlat=-26.2295984&mlon=-52.6712474' target='_blank'>Ver no Mapa</a></div>`)[0];
+                popup_e08a43946bc913fa7720c00452001554.setContent(html_b08e57a6f67a7f87c8c4316c96d92035);
+            
+        
+
+        marker_0f150d56f3bb89fe0b147a6c6b4e57af.bindPopup(popup_e08a43946bc913fa7720c00452001554)
+        ;
+
+        
+    
+    
+            marker_0f150d56f3bb89fe0b147a6c6b4e57af.bindTooltip(
+                `<div>
+                     Pato Branco, Paraná, Brazil
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_8fce37aec6bfab377e44fc95d86bf588 = L.marker(
+                [-25.7464681, -53.0554369],
+                {}
+            ).addTo(map_95854ebf1f3886d4e805e882bd86b7c1);
+        
+    
+        var popup_99ad39440397262620b993d83e196ebf = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_e86e2747c1e8e882e06a71c6200cf793 = $(`<div id="html_e86e2747c1e8e882e06a71c6200cf793" style="width: 100.0%; height: 100.0%;"><b>Dois Vizinhos, Paraná, Brazil</b><br><a href='https://www.openstreetmap.org/?mlat=-25.7464681&mlon=-53.0554369' target='_blank'>Ver no Mapa</a></div>`)[0];
+                popup_99ad39440397262620b993d83e196ebf.setContent(html_e86e2747c1e8e882e06a71c6200cf793);
+            
+        
+
+        marker_8fce37aec6bfab377e44fc95d86bf588.bindPopup(popup_99ad39440397262620b993d83e196ebf)
+        ;
+
+        
+    
+    
+            marker_8fce37aec6bfab377e44fc95d86bf588.bindTooltip(
+                `<div>
+                     Dois Vizinhos, Paraná, Brazil
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_a8bc1381c02e470c7967c4439a2443fa = L.marker(
+                [-26.0790979, -53.0533527],
+                {}
+            ).addTo(map_95854ebf1f3886d4e805e882bd86b7c1);
+        
+    
+        var popup_37603d374bb01114f79287b0b4c3dc64 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_ead36feafabca6096575a55bfcbbbdf8 = $(`<div id="html_ead36feafabca6096575a55bfcbbbdf8" style="width: 100.0%; height: 100.0%;"><b>Francisco Beltrão, Paraná, Brazil</b><br><a href='https://www.openstreetmap.org/?mlat=-26.0790979&mlon=-53.0533527' target='_blank'>Ver no Mapa</a></div>`)[0];
+                popup_37603d374bb01114f79287b0b4c3dc64.setContent(html_ead36feafabca6096575a55bfcbbbdf8);
+            
+        
+
+        marker_a8bc1381c02e470c7967c4439a2443fa.bindPopup(popup_37603d374bb01114f79287b0b4c3dc64)
+        ;
+
+        
+    
+    
+            marker_a8bc1381c02e470c7967c4439a2443fa.bindTooltip(
+                `<div>
+                     Francisco Beltrão, Paraná, Brazil
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_8f9be257e5188d82fcd869ae30d3a6e0 = L.marker(
+                [-25.2954233, -54.0940666],
+                {}
+            ).addTo(map_95854ebf1f3886d4e805e882bd86b7c1);
+        
+    
+        var popup_ccab8ba641a0cfb38a98972bc60ba8db = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_b88e4c3cf963da1e1212bfad06655008 = $(`<div id="html_b88e4c3cf963da1e1212bfad06655008" style="width: 100.0%; height: 100.0%;"><b>Medianeira, Paraná, Brazil</b><br><a href='https://www.openstreetmap.org/?mlat=-25.2954233&mlon=-54.0940666' target='_blank'>Ver no Mapa</a></div>`)[0];
+                popup_ccab8ba641a0cfb38a98972bc60ba8db.setContent(html_b88e4c3cf963da1e1212bfad06655008);
+            
+        
+
+        marker_8f9be257e5188d82fcd869ae30d3a6e0.bindPopup(popup_ccab8ba641a0cfb38a98972bc60ba8db)
+        ;
+
+        
+    
+    
+            marker_8f9be257e5188d82fcd869ae30d3a6e0.bindTooltip(
+                `<div>
+                     Medianeira, Paraná, Brazil
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_54e3c9afa2d773ff29928fa35367feae = L.marker(
+                [-24.8591735, -54.3328813],
+                {}
+            ).addTo(map_95854ebf1f3886d4e805e882bd86b7c1);
+        
+    
+        var popup_fc014ae3f6c53d25d51dfe6d6cb8e647 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_3872ad5c3270bd8187cca8b2e7627f6a = $(`<div id="html_3872ad5c3270bd8187cca8b2e7627f6a" style="width: 100.0%; height: 100.0%;"><b>Santa Helena, Paraná, Brazil</b><br><a href='https://www.openstreetmap.org/?mlat=-24.8591735&mlon=-54.3328813' target='_blank'>Ver no Mapa</a></div>`)[0];
+                popup_fc014ae3f6c53d25d51dfe6d6cb8e647.setContent(html_3872ad5c3270bd8187cca8b2e7627f6a);
+            
+        
+
+        marker_54e3c9afa2d773ff29928fa35367feae.bindPopup(popup_fc014ae3f6c53d25d51dfe6d6cb8e647)
+        ;
+
+        
+    
+    
+            marker_54e3c9afa2d773ff29928fa35367feae.bindTooltip(
+                `<div>
+                     Santa Helena, Paraná, Brazil
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_ba1d9c913f1fca5cbcc8b45cfbefd306 = L.marker(
+                [-24.7222438, -53.7402476],
+                {}
+            ).addTo(map_95854ebf1f3886d4e805e882bd86b7c1);
+        
+    
+        var popup_8a2f4f7d6977aa5a326d6fa3d417ca96 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_b74a1c066246f59fc19ff5d3057e790c = $(`<div id="html_b74a1c066246f59fc19ff5d3057e790c" style="width: 100.0%; height: 100.0%;"><b>Toledo, Paraná, Brazil</b><br><a href='https://www.openstreetmap.org/?mlat=-24.7222438&mlon=-53.7402476' target='_blank'>Ver no Mapa</a></div>`)[0];
+                popup_8a2f4f7d6977aa5a326d6fa3d417ca96.setContent(html_b74a1c066246f59fc19ff5d3057e790c);
+            
+        
+
+        marker_ba1d9c913f1fca5cbcc8b45cfbefd306.bindPopup(popup_8a2f4f7d6977aa5a326d6fa3d417ca96)
+        ;
+
+        
+    
+    
+            marker_ba1d9c913f1fca5cbcc8b45cfbefd306.bindTooltip(
+                `<div>
+                     Toledo, Paraná, Brazil
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_eec835be3741db91247dde476bfe3d11 = L.marker(
+                [-25.5304023, -54.5830692],
+                {}
+            ).addTo(map_95854ebf1f3886d4e805e882bd86b7c1);
+        
+    
+        var popup_4da1370d1906a8d8eeabb97c918d6e4c = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_d0b8cd8e6c2f218114b8522fee10bd43 = $(`<div id="html_d0b8cd8e6c2f218114b8522fee10bd43" style="width: 100.0%; height: 100.0%;"><b>Foz do Iguaçu, Paraná, Brazil</b><br><a href='https://www.openstreetmap.org/?mlat=-25.5304023&mlon=-54.5830692' target='_blank'>Ver no Mapa</a></div>`)[0];
+                popup_4da1370d1906a8d8eeabb97c918d6e4c.setContent(html_d0b8cd8e6c2f218114b8522fee10bd43);
+            
+        
+
+        marker_eec835be3741db91247dde476bfe3d11.bindPopup(popup_4da1370d1906a8d8eeabb97c918d6e4c)
+        ;
+
+        
+    
+    
+            marker_eec835be3741db91247dde476bfe3d11.bindTooltip(
+                `<div>
+                     Foz do Iguaçu, Paraná, Brazil
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_9edffee5be6ba71bd7441ff4ac536688 = L.marker(
+                [-24.9554996, -53.4560544],
+                {}
+            ).addTo(map_95854ebf1f3886d4e805e882bd86b7c1);
+        
+    
+        var popup_46e8ac73726470dd9bb49086a318c899 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_8c1f34e24f334de494007af6134981b0 = $(`<div id="html_8c1f34e24f334de494007af6134981b0" style="width: 100.0%; height: 100.0%;"><b>Cascavel, Paraná, Brazil</b><br><a href='https://www.openstreetmap.org/?mlat=-24.9554996&mlon=-53.4560544' target='_blank'>Ver no Mapa</a></div>`)[0];
+                popup_46e8ac73726470dd9bb49086a318c899.setContent(html_8c1f34e24f334de494007af6134981b0);
+            
+        
+
+        marker_9edffee5be6ba71bd7441ff4ac536688.bindPopup(popup_46e8ac73726470dd9bb49086a318c899)
+        ;
+
+        
+    
+    
+            marker_9edffee5be6ba71bd7441ff4ac536688.bindTooltip(
+                `<div>
+                     Cascavel, Paraná, Brazil
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_1c7ae464963b6f11230266c5fe803d73 = L.marker(
+                [-25.3950986, -51.4622016],
+                {}
+            ).addTo(map_95854ebf1f3886d4e805e882bd86b7c1);
+        
+    
+        var popup_57f8595866359fbebea702252dc69d30 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_21b5c226c47ecba851d1afd4a976d4f5 = $(`<div id="html_21b5c226c47ecba851d1afd4a976d4f5" style="width: 100.0%; height: 100.0%;"><b>Guarapuava, Paraná, Brazil</b><br><a href='https://www.openstreetmap.org/?mlat=-25.3950986&mlon=-51.4622016' target='_blank'>Ver no Mapa</a></div>`)[0];
+                popup_57f8595866359fbebea702252dc69d30.setContent(html_21b5c226c47ecba851d1afd4a976d4f5);
+            
+        
+
+        marker_1c7ae464963b6f11230266c5fe803d73.bindPopup(popup_57f8595866359fbebea702252dc69d30)
+        ;
+
+        
+    
+    
+            marker_1c7ae464963b6f11230266c5fe803d73.bindTooltip(
+                `<div>
+                     Guarapuava, Paraná, Brazil
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_e6fdca870d35ab91b9a33b7600f907a4 = L.marker(
+                [-23.425269, -51.9382078],
+                {}
+            ).addTo(map_95854ebf1f3886d4e805e882bd86b7c1);
+        
+    
+        var popup_d2107e6ecf4ae4cc0ed1d518a2049582 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_621ca50b6c66094a356aec173f26c76e = $(`<div id="html_621ca50b6c66094a356aec173f26c76e" style="width: 100.0%; height: 100.0%;"><b>Maringá, Paraná, Brazil</b><br><a href='https://www.openstreetmap.org/?mlat=-23.425269&mlon=-51.9382078' target='_blank'>Ver no Mapa</a></div>`)[0];
+                popup_d2107e6ecf4ae4cc0ed1d518a2049582.setContent(html_621ca50b6c66094a356aec173f26c76e);
+            
+        
+
+        marker_e6fdca870d35ab91b9a33b7600f907a4.bindPopup(popup_d2107e6ecf4ae4cc0ed1d518a2049582)
+        ;
+
+        
+    
+    
+            marker_e6fdca870d35ab91b9a33b7600f907a4.bindTooltip(
+                `<div>
+                     Maringá, Paraná, Brazil
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_aadb0a17d4e056d834d0251587038f36 = L.marker(
+                [-25.533816, -49.2072163],
+                {}
+            ).addTo(map_95854ebf1f3886d4e805e882bd86b7c1);
+        
+    
+        var popup_c39bc3da95b18febfe3e16d7304beeca = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_2deb36c43b2965cdff87d52690dc1a0b = $(`<div id="html_2deb36c43b2965cdff87d52690dc1a0b" style="width: 100.0%; height: 100.0%;"><b>São José dos Pinhais, Paraná, Brazil</b><br><a href='https://www.openstreetmap.org/?mlat=-25.533816&mlon=-49.2072163' target='_blank'>Ver no Mapa</a></div>`)[0];
+                popup_c39bc3da95b18febfe3e16d7304beeca.setContent(html_2deb36c43b2965cdff87d52690dc1a0b);
+            
+        
+
+        marker_aadb0a17d4e056d834d0251587038f36.bindPopup(popup_c39bc3da95b18febfe3e16d7304beeca)
+        ;
+
+        
+    
+    
+            marker_aadb0a17d4e056d834d0251587038f36.bindTooltip(
+                `<div>
+                     São José dos Pinhais, Paraná, Brazil
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_26cd6bb391d89cf403ff7bcb9bb65a45 = L.marker(
+                [-25.2925439, -49.2243472],
+                {}
+            ).addTo(map_95854ebf1f3886d4e805e882bd86b7c1);
+        
+    
+        var popup_c8996f39e07c203438f21878469f3eb2 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_9523246f813000ee559cf9eba6fb028b = $(`<div id="html_9523246f813000ee559cf9eba6fb028b" style="width: 100.0%; height: 100.0%;"><b>Colombo, Paraná, Brazil</b><br><a href='https://www.openstreetmap.org/?mlat=-25.2925439&mlon=-49.2243472' target='_blank'>Ver no Mapa</a></div>`)[0];
+                popup_c8996f39e07c203438f21878469f3eb2.setContent(html_9523246f813000ee559cf9eba6fb028b);
+            
+        
+
+        marker_26cd6bb391d89cf403ff7bcb9bb65a45.bindPopup(popup_c8996f39e07c203438f21878469f3eb2)
+        ;
+
+        
+    
+    
+            marker_26cd6bb391d89cf403ff7bcb9bb65a45.bindTooltip(
+                `<div>
+                     Colombo, Paraná, Brazil
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_00d276b6530efd47cb3a382558d566ec = L.marker(
+                [-25.5861107, -49.4051209],
+                {}
+            ).addTo(map_95854ebf1f3886d4e805e882bd86b7c1);
+        
+    
+        var popup_b819c1aec807fb469180a4d06249fe40 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_ba12f06b7b097b5e0ad2cd66fcc4fe57 = $(`<div id="html_ba12f06b7b097b5e0ad2cd66fcc4fe57" style="width: 100.0%; height: 100.0%;"><b>Araucária, Paraná, Brazil</b><br><a href='https://www.openstreetmap.org/?mlat=-25.5861107&mlon=-49.4051209' target='_blank'>Ver no Mapa</a></div>`)[0];
+                popup_b819c1aec807fb469180a4d06249fe40.setContent(html_ba12f06b7b097b5e0ad2cd66fcc4fe57);
+            
+        
+
+        marker_00d276b6530efd47cb3a382558d566ec.bindPopup(popup_b819c1aec807fb469180a4d06249fe40)
+        ;
+
+        
+    
+    
+            marker_00d276b6530efd47cb3a382558d566ec.bindTooltip(
+                `<div>
+                     Araucária, Paraná, Brazil
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_a4a50b43bc847c82ff25e8326331ec32 = L.marker(
+                [-25.5148822, -48.5226695],
+                {}
+            ).addTo(map_95854ebf1f3886d4e805e882bd86b7c1);
+        
+    
+        var popup_218b806ecbba93dcb0bf504e9f8bc978 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_98a6a6740470f35f3b839dd38f864941 = $(`<div id="html_98a6a6740470f35f3b839dd38f864941" style="width: 100.0%; height: 100.0%;"><b>Paranaguá, Paraná, Brazil</b><br><a href='https://www.openstreetmap.org/?mlat=-25.5148822&mlon=-48.5226695' target='_blank'>Ver no Mapa</a></div>`)[0];
+                popup_218b806ecbba93dcb0bf504e9f8bc978.setContent(html_98a6a6740470f35f3b839dd38f864941);
+            
+        
+
+        marker_a4a50b43bc847c82ff25e8326331ec32.bindPopup(popup_218b806ecbba93dcb0bf504e9f8bc978)
+        ;
+
+        
+    
+    
+            marker_a4a50b43bc847c82ff25e8326331ec32.bindTooltip(
+                `<div>
+                     Paranaguá, Paraná, Brazil
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_9270fae10390a410f42af26b99cd0870 = L.marker(
+                [-23.7621152, -53.3116192],
+                {}
+            ).addTo(map_95854ebf1f3886d4e805e882bd86b7c1);
+        
+    
+        var popup_33f6e9aead00442bcb2b2ede0da87de7 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_9f72326218740eaf31b71963c5727b65 = $(`<div id="html_9f72326218740eaf31b71963c5727b65" style="width: 100.0%; height: 100.0%;"><b>Umuarama, Paraná, Brazil</b><br><a href='https://www.openstreetmap.org/?mlat=-23.7621152&mlon=-53.3116192' target='_blank'>Ver no Mapa</a></div>`)[0];
+                popup_33f6e9aead00442bcb2b2ede0da87de7.setContent(html_9f72326218740eaf31b71963c5727b65);
+            
+        
+
+        marker_9270fae10390a410f42af26b99cd0870.bindPopup(popup_33f6e9aead00442bcb2b2ede0da87de7)
+        ;
+
+        
+    
+    
+            marker_9270fae10390a410f42af26b99cd0870.bindTooltip(
+                `<div>
+                     Umuarama, Paraná, Brazil
+                 </div>`,
+                {"sticky": true}
+            );
+        
+</script>
+</html>
